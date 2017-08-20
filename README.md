@@ -1,2 +1,0 @@
-# kodumund-nyas-
-python candır
